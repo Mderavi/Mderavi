@@ -19,13 +19,6 @@ I build with performance, accessibility, and cross-browser compatibility in mind
 
 ---
 
-### 🚀 Notable Projects
-
-- 🔗 [carmanskitchen.com.au](https://carmanskitchen.com.au) — Responsive eCommerce interface
-- 🔗 [teachingawards.com.au](https://teachingawards.com.au) — Award nomination platform
-- 🔗 Telstra & Imagination NYE App 2013 — Interactive mobile app experience
-
----
 
 ### 📚 Education & Certifications
 
