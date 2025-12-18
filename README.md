@@ -2,9 +2,9 @@
 
 ###  Front-End Web Developer | UI Engineer | Sydney-Based
 
-I'm a passionate front-end developer with over 7 years of experience delivering **responsive, accessible, and scalable** web applications. I specialise in turning ideas into interactive digital products using **HTML5, CSS3, JavaScript, React, and TypeScript**.
+I'm a passionate Software Developer/ front-end developer with over 7 years of experience delivering **responsive, accessible, and scalable** web applications. I specialise in turning ideas into interactive digital products using **HTML5, CSS3, JavaScript, React, and TypeScript**.
 
-I build with performance, accessibility, and cross-browser compatibility in mind—ensuring seamless experiences on any device. I've contributed to projects for major brands like **Carman’s Kitchen, American Express, Telstra, McDonald’s, ANZ**, and more.
+I build with performance, accessibility, and cross-browser compatibility in mind—ensuring seamless experiences on any device. I've contributed to projects for major brands like **Carman’s Kitchen, American Express, Telstra, McDonald’s, ANZ**, and more. Comfortable writing clean code, debugging issues, using Git for version control, and working through the software development lifecycle (design, development, testing, deployment). Strong problem-solving and attention to detail, with a customer-focused mindset from retail operations experience. Eager to learn new technologies and contribute to a collaborative team under senior developer guidance.
 
 ---
 
@@ -32,7 +32,7 @@ I build with performance, accessibility, and cross-browser compatibility in mind
 ###  Tech Stack
 
 ```ts
-Languages:   HTML5, CSS3, JavaScript, TypeScript
+Languages:   HTML5, CSS3, JavaScript, TypeScript, Python
 Frameworks:  React, Bootstrap, Tailwind, MUI
 Tools:       Git, Figma, Webpack, Babel, BrowserStack
 Practices:   Responsive Design, Web Accessibility (WCAG), Cross-Browser Testing
