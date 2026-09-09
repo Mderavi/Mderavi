@@ -22,7 +22,6 @@ I build with performance, accessibility, and cross-browser compatibility in mind
 
 ###  Education & Certifications
 
--  **Graduate Certificate in Computer Software Engineering** — UNSW *(2025)*
 -  **Bachelor of Science** — Azad University *(Grade: A)*
 -  **Advanced Diploma, Website Development** — TAFE NSW *(Distinction)*
 -  **Certificate IV, Web-Based Technologies** — TAFE NSW
